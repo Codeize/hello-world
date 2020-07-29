@@ -1,5 +1,5 @@
 # hello-world
-MrCodeize’s First Ever GitHub Project.
+Some info about me and my interests.
 
 Hello everyone! My name is Codeize and I enjoy coding. My main languages are HTML, CSS and JS
 --
