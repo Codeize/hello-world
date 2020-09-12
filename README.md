@@ -27,6 +27,7 @@ My Stats!
 
 ![Codeize's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeize&show_icons=true)
 --
-My DEV.To profile. 
+My Most Used Languages! 
 
-[![Codeize's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/codeize)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeize)](https://github.com/codeize/hello-world)
+--
